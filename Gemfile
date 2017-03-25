@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 # Bundle simple form https://github.com/plataformatec/simple_form
 gem 'simple_form' 
-# Bundle devise https://github.com/plataformatec/devise
+# Bundle devise for flexible authentication https://github.com/plataformatec/devise
 gem 'devise'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
